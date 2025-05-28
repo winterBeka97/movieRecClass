@@ -1,0 +1,13 @@
+# Ignore node_modules
+node_modules/
+# Ignore build output
+bad_comments.csv
+good_comments.csv
+package-lock.json
+# Ignore virtual environment
+.env
+# Ignore data files
+Data/
+myScrapedData/
+# Ignore results
+Results/
